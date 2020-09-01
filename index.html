@@ -5,6 +5,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <script src="object.js"></script>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        max-height: 100vh;
+        overflow: hidden;
+      }
+      .container {
+        border: 5px solid white;
+        background: hsl(240, 50%, 20%);
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      a {
+        text-decoration: none;
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        border: 1px solid hsl(0, 50%, 100%);
+        padding: 5px 10px;
+        border-radius: 10px;
+        background-color: hsl(240, 50%, 50%);
+      }
+
+      a:hover {
+        background-color: hsl(240, 50%, 30%);
+      }
+    </style>
   </head>
   <body>
     <div class="container">
