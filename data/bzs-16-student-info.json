@@ -456,7 +456,7 @@
     "section": "A",
     "phone": "01796620954",
     "email": "safatmorshednabik@gmail.com",
-    "subject": "Textile Engineering  ",
+    "subject": "Textile Engineering",
     "university": "Kuet",
     "bloodGroup": "B(+ve)",
     "passion": "জানিনা",
@@ -651,34 +651,6 @@
   },
 
   {
-    "Timestamp": 43839.01828471065,
-    "Name": "Sajid Salman",
-    "nameBangla": "সাজিদ সালমান",
-    "class10Roll": 0,
-    "section": "B",
-    "phone": "01750125165",
-    "email": "wp.sajid@gmail.com",
-    "subject": "Mbbs",
-    "university": "Jalalabad Ragib-Rabeya Medical College, Sylhet",
-    "bloodGroup": "B(+ve)",
-    "photo": "https://drive.google.com/uc?id=13rVZOB5op7q168x0ORAYS8de6V60w7eG"
-  },
-  {
-    "Timestamp": 43849.43224969908,
-    "Name": "Md. Abrar Jahin",
-    "nameBangla": "মো: আবরার জাহিন",
-    "sscRoll": 148762,
-    "class10Roll": 0,
-    "section": "B",
-    "phone": "01760885599",
-    "email": "abrar.jahin.2652@gmail.com",
-    "subject": "Industrial Engineering and Management",
-    "university": "Khulna University of Engineering and Technology",
-    "bloodGroup": "O+",
-    "passion": "Engineer",
-    "photo": "https://drive.google.com/uc?id=1vGgdLilw3TGdo2JTVop_ZPaMeZKb2saU"
-  },
-  {
     "Timestamp": 43836.67842625,
     "Name": "Somonindro Roy",
     "nameBangla": "সমনীন্দ্র রায়",
@@ -704,6 +676,20 @@
     "university": "Jahangirnagar University",
     "bloodGroup": "O(+ve)",
     "photo": "https://drive.google.com/uc?id=1ngsXMjTg8IjVu7VibUGkrJcdR_PGH_kS"
+  },
+  {
+    "Timestamp": 43951.37454012732,
+    "Name": "Md. Junnu Rain",
+    "nameBangla": "মোঃ জুন্নু রাইন",
+    "sscRoll": 146715,
+    "class10Roll": 3,
+    "section": "B",
+    "phone": "01612201603;01516337932",
+    "email": "x@x.com",
+    "university": "Dinajpur Medical Medical,  Dinajpur",
+    "bloodGroup": "x",
+    "passion": "Ideal Doctor",
+    "photo": "https://drive.google.com/uc?id=1r4y3YZ1nBR4-qeZXt4Ee0eDtE3p_fcXc"
   },
   {
     "Timestamp": 43838.05716300926,
@@ -732,6 +718,21 @@
     "university": "KUET",
     "bloodGroup": "O(+ve)",
     "photo": "https://drive.google.com/uc?id=1RmGYMZKqZ0f4P1NjhFh4BGK3aHvkACQN"
+  },
+  {
+    "Timestamp": 43883.34798633102,
+    "Name": "Md Faysal Hasan",
+    "nameBangla": "মোঃ ফয়সাল হাসান",
+    "sscRoll": 146722,
+    "class10Roll": 6,
+    "section": "B",
+    "phone": "01307316244",
+    "email": "Englishfaysal135@gmail.com",
+    "subject": "English",
+    "university": "National University (AHC)",
+    "bloodGroup": "B+",
+    "passion": "Magistrate",
+    "photo": "https://drive.google.com/uc?id=1NL5YWAIdY5v3WuPXqrLx-WAx2nLp16qY"
   },
   {
     "Timestamp": 43836.88590820602,
@@ -763,6 +764,7 @@
     "passion": "Freelancing",
     "photo": "https://drive.google.com/uc?id=1uNUNWrNonzPFvegtLlHMwZzkoDcI01XS"
   },
+
   {
     "Timestamp": 43836.73906273148,
     "Name": "Mosaddik Al Haque Shanto",
@@ -1430,7 +1432,7 @@
     "Timestamp": 43848.86637207176,
     "Name": "Md. Bokhtiar-u-Zzaman",
     "nameBangla": "মো:বখতিয়ারুজ্জামান",
-    "class10Roll": 89,
+    "class10Roll": "leave",
     "section": "B",
     "phone": "01793259901",
     "email": "bokhtiaruzzaman@gmail.com",
@@ -1444,7 +1446,7 @@
     "Timestamp": 43849.69151925926,
     "Name": "Bakthear Mahmud  ",
     "nameBangla": "বখতিয়ার মাহমুদ  ",
-    "class10Roll": "00",
+    "class10Roll": "cadet",
     "section": "B",
     "phone": "01705739347",
     "email": "bakthear.nayem@gmail.com",
@@ -1454,35 +1456,36 @@
     "passion": "Police ",
     "photo": "https://drive.google.com/uc?id=1DCWem-11zKTq12QWG2utFme8W72_NrUk"
   },
+
   {
-    "Timestamp": 43951.37454012732,
-    "Name": "Md. Junnu Rain",
-    "nameBangla": "মোঃ জুন্নু রাইন",
-    "sscRoll": 146715,
-    "class10Roll": 3,
+    "Timestamp": 43839.01828471065,
+    "Name": "Sajid Salman",
+    "nameBangla": "সাজিদ সালমান",
+    "class10Roll": "cadet",
     "section": "B",
-    "phone": "01612201603;01516337932",
-    "email": "x@x.com",
-    "university": "Dinajpur Medical Medical,  Dinajpur",
-    "bloodGroup": "x",
-    "passion": "Ideal Doctor",
-    "photo": "https://drive.google.com/uc?id=1r4y3YZ1nBR4-qeZXt4Ee0eDtE3p_fcXc"
+    "phone": "01750125165",
+    "email": "wp.sajid@gmail.com",
+    "subject": "Mbbs",
+    "university": "Jalalabad Ragib-Rabeya Medical College, Sylhet",
+    "bloodGroup": "B(+ve)",
+    "photo": "https://drive.google.com/uc?id=13rVZOB5op7q168x0ORAYS8de6V60w7eG"
   },
   {
-    "Timestamp": 43883.34798633102,
-    "Name": "Md Faysal Hasan",
-    "nameBangla": "মোঃ ফয়সাল হাসান",
-    "sscRoll": 146722,
-    "class10Roll": 9,
+    "Timestamp": 43849.43224969908,
+    "Name": "Md. Abrar Jahin",
+    "nameBangla": "মো: আবরার জাহিন",
+    "sscRoll": 148762,
+    "class10Roll": "cadet",
     "section": "B",
-    "phone": "01307316244",
-    "email": "Englishfaysal135@gmail.com",
-    "subject": "English",
-    "university": "National University (AHC)",
-    "bloodGroup": "B+",
-    "passion": "Magistrate",
-    "photo": "https://drive.google.com/uc?id=1NL5YWAIdY5v3WuPXqrLx-WAx2nLp16qY"
+    "phone": "01760885599",
+    "email": "abrar.jahin.2652@gmail.com",
+    "subject": "Industrial Engineering and Management",
+    "university": "Khulna University of Engineering and Technology",
+    "bloodGroup": "O+",
+    "passion": "Engineer",
+    "photo": "https://drive.google.com/uc?id=1vGgdLilw3TGdo2JTVop_ZPaMeZKb2saU"
   },
+
   {
     "Timestamp": 43836.90336322917,
     "Name": "Md. Farhan Masud (Plabon)",
@@ -1495,6 +1498,21 @@
     "university": "MIST",
     "bloodGroup": "B(+ve)",
     "photo": "https://drive.google.com/uc?id=1FVFFK793zxJiXeEIzX68phKPpa_-CZIr"
+  },
+  {
+    "Timestamp": 43860.946749131945,
+    "Name": "Javid Safiullah",
+    "nameBangla": "Javid",
+    "sscRoll": 146768,
+    "class10Roll": 2,
+    "section": "C",
+    "phone": "01612016302",
+    "email": "javidsafiullah41288@gmail.com",
+    "subject": "Eee",
+    "university": "BUET",
+    "bloodGroup": "A+",
+    "passion": "Engineer ",
+    "photo": "https://drive.google.com/uc?id=1jbbbWweIwLmkETr1LMn01LKzKmERMYXg"
   },
   {
     "Timestamp": 43840.57531033565,
@@ -1541,7 +1559,7 @@
     "Name": "Md.Samiul Bari",
     "nameBangla": "মোঃ সামিউল বারী",
     "sscRoll": 8,
-    "class10Roll": 8,
+    "class10Roll": 146780,
     "section": "C",
     "phone": "01793597162",
     "email": "samiulbari8112@yahoo.com",
@@ -2063,21 +2081,7 @@
     "passion": "Business Magnet  ",
     "photo": "https://drive.google.com/uc?id=1Tqrs-YQ5z8sxn8vcQJ1v1kZgLM0OPht7"
   },
-  {
-    "Timestamp": 43860.946749131945,
-    "Name": "Javid Safiullah",
-    "nameBangla": "Javid",
-    "sscRoll": 146768,
-    "class10Roll": 2,
-    "section": "C",
-    "phone": "01612016302",
-    "email": "javidsafiullah41288@gmail.com",
-    "subject": "Eee",
-    "university": "BUET",
-    "bloodGroup": "A+",
-    "passion": "Engineer ",
-    "photo": "https://drive.google.com/uc?id=1jbbbWweIwLmkETr1LMn01LKzKmERMYXg"
-  },
+
   {
     "Timestamp": 43861.83048449074,
     "Name": "Syed Shihab Ul Mulk",
