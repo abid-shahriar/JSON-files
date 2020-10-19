@@ -2095,7 +2095,7 @@
     "bloodGroup": "O(+ve)",
     "photo": "https://drive.google.com/uc?id=1zMBpg5TOPYCV3rH-jGNq3krBUmAnFsjU"
   },
-  
+
   {
     "Timestamp": 43842.95663946759,
     "Name": "Sourv Chandra Roy",
@@ -2139,7 +2139,7 @@
     "bloodGroup": " A+",
     "passion": "Medical science, drawing, sleeping",
     "photo": "https://drive.google.com/uc?id=1uPSPk5rNDammjrjwTZHhRqZhW_5LPVsj"
-  }
+  },
   {
     "Timestamp": 43842.95810766204,
     "Name": "Wasib Shakkhor",
@@ -2789,7 +2789,7 @@
     "bloodGroup": "B+",
     "photo": "https://drive.google.com/uc?id=1nQ26LtZ_sNmBeIVRPuC0QYB0GeeO3W63"
   },
-  
+
   {
     "Timestamp": 43842.01516148148,
     "Name": "Amit Saha",
@@ -2848,7 +2848,5 @@
     "university": "IUT",
     "bloodGroup": "B+",
     "photo": "https://drive.google.com/uc?id=1GZcw6FBR17-RDdKVoKmN25c6g67P2Gtj"
-  },
-  
-  
+  }
 ]
