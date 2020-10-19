@@ -1304,7 +1304,7 @@
     "subject": "EEE",
     "university": "Ahsanullah University of science and technology      ",
     "bloodGroup": "B(+ve)",
-    "passion": "ঘর জামাই 🤭",
+    "passion": "ঘর জামাই",
     "photo": "https://drive.google.com/uc?id=1QZsvxjv71NvFuCNQ-GtCbuQ7E1arnU-S"
   },
   {
@@ -1432,7 +1432,7 @@
     "Timestamp": 43848.86637207176,
     "Name": "Md. Bokhtiar-u-Zzaman",
     "nameBangla": "মো:বখতিয়ারুজ্জামান",
-    "class10Roll": "leave",
+    "class10Roll": "left/cadet",
     "section": "B",
     "phone": "01793259901",
     "email": "bokhtiaruzzaman@gmail.com",
@@ -1446,7 +1446,7 @@
     "Timestamp": 43849.69151925926,
     "Name": "Bakthear Mahmud  ",
     "nameBangla": "বখতিয়ার মাহমুদ  ",
-    "class10Roll": "cadet",
+    "class10Roll": "left/cadet",
     "section": "B",
     "phone": "01705739347",
     "email": "bakthear.nayem@gmail.com",
@@ -1461,7 +1461,7 @@
     "Timestamp": 43839.01828471065,
     "Name": "Sajid Salman",
     "nameBangla": "সাজিদ সালমান",
-    "class10Roll": "cadet",
+    "class10Roll": "left/cadet",
     "section": "B",
     "phone": "01750125165",
     "email": "wp.sajid@gmail.com",
@@ -1475,7 +1475,7 @@
     "Name": "Md. Abrar Jahin",
     "nameBangla": "মো: আবরার জাহিন",
     "sscRoll": 148762,
-    "class10Roll": "cadet",
+    "class10Roll": "left/cadet",
     "section": "B",
     "phone": "01760885599",
     "email": "abrar.jahin.2652@gmail.com",
@@ -1558,8 +1558,8 @@
     "Timestamp": 43845.919449016204,
     "Name": "Md.Samiul Bari",
     "nameBangla": "মোঃ সামিউল বারী",
-    "sscRoll": 8,
-    "class10Roll": 146780,
+    "sscRoll": 146780,
+    "class10Roll": 8,
     "section": "C",
     "phone": "01793597162",
     "email": "samiulbari8112@yahoo.com",
@@ -1608,20 +1608,6 @@
     "bloodGroup": "B+",
     "passion": "Want to serve my country ",
     "photo": "https://drive.google.com/uc?id=1pzYselnqIlhA8cUrKkmT422xtTYfZUBa"
-  },
-  {
-    "Timestamp": 43860.50696629629,
-    "Name": "Rafi Bin Shahadat ",
-    "nameBangla": "রাফি বিন শাহাদৎ ",
-    "class10Roll": 11,
-    "section": "C",
-    "phone": "01612016311",
-    "email": "rbssupantho@gmail.com",
-    "subject": "Civil Engineering ",
-    "university": "Khulna University of Engineering & Technology ",
-    "bloodGroup": "B+",
-    "passion": "Want to serve my country ",
-    "photo": "https://drive.google.com/uc?id=1QfUZip4nEgmF5A00MROKrN4ZHMqPsdgv"
   },
   {
     "Timestamp": 43837.84959416666,
@@ -1737,20 +1723,6 @@
     "bloodGroup": "B+(ve)",
     "passion": "Musician,,, Teacher",
     "photo": "https://drive.google.com/uc?id=1RGNVmTiWByHkBRGOio_k-V6j1Me-oJNQ"
-  },
-  {
-    "Timestamp": 43915.68604545139,
-    "Name": "MD.Kawsar Islam Bilash ",
-    "nameBangla": "মো:কাওছার ইসলাম বিলাশ   ",
-    "sscRoll": 146796,
-    "class10Roll": 23,
-    "section": "C",
-    "phone": "01951396886",
-    "email": "kawser9900@gmail.com",
-    "subject": "Agriculture economics & rural develoment",
-    "university": "Bongobondhu Sheikh Mujibur Rahman Agriculture University ",
-    "bloodGroup": "O+",
-    "photo": "https://drive.google.com/uc?id=1rP7y7tiED3gJqRGm2fcqZkn_60jurC3K"
   },
   {
     "Timestamp": 43917.548049606485,
@@ -1904,35 +1876,6 @@
     "photo": "https://drive.google.com/uc?id=1D8zLA6oOxilu_VWz7MgPQtp0bJ5l8T4p"
   },
   {
-    "Timestamp": 43915.706218541665,
-    "Name": "S.M.Labib Ahanab",
-    "nameBangla": "এস.এম. লাবিব আহনাব",
-    "sscRoll": 146814,
-    "class10Roll": 39,
-    "section": "C",
-    "phone": "01745428854",
-    "email": "labibahnab@gmail.com",
-    "subject": "Law",
-    "university": "Stamford University",
-    "bloodGroup": "AB+",
-    "passion": "Lawyer",
-    "photo": "https://drive.google.com/uc?id=1R10B-fZNoU4AwftO-oMo7Cao9kWn9lnA"
-  },
-  {
-    "Timestamp": 43836.93232391204,
-    "Name": "Mashuk Arnob ",
-    "nameBangla": "মাশুক অর্ণব",
-    "sscRoll": 146810,
-    "class10Roll": 40,
-    "section": "C",
-    "phone": "01612016340",
-    "email": "md.mashuk.sadik@gmail.com",
-    "subject": "Wpe",
-    "university": "BUTEX ",
-    "bloodGroup": "O(+ve)",
-    "photo": "https://drive.google.com/uc?id=1Ietcdto5cIU8W2T1q833SHApjn8m-TEa"
-  },
-  {
     "Timestamp": 43890.568921087965,
     "Name": "Md.Mashuk Sadik Arnob ",
     "nameBangla": "মোঃ মাশুক সাদিক অর্ণব",
@@ -2076,7 +2019,7 @@
     "phone": "01612-016363",
     "email": "Tamzid6363@gmail.com",
     "subject": "Marketing ",
-    "university": "Hajee Mohammad Danesh science and Technology University Dinajpur        ",
+    "university": "Hajee Mohammad Danesh science and Technology University Dinajpur",
     "bloodGroup": "B+",
     "passion": "Business Magnet  ",
     "photo": "https://drive.google.com/uc?id=1Tqrs-YQ5z8sxn8vcQJ1v1kZgLM0OPht7"
@@ -2086,13 +2029,28 @@
     "Timestamp": 43861.83048449074,
     "Name": "Syed Shihab Ul Mulk",
     "nameBangla": "সৈয়দ শিহাব উল মুলক",
-    "class10Roll": "00",
-    "section": "Cadet",
+    "class10Roll": "left/cadet",
+    "section": "C",
     "phone": "01615351799",
     "email": "syedshihab.1799@gmail.com",
     "university": "Kuet",
     "bloodGroup": "AB+",
     "photo": "https://drive.google.com/uc?id=1vdYw9na9S23XSnEBzLLIuBS5sD978kw0"
+  },
+  {
+    "Timestamp": 43841.99289334491,
+    "Name": "Shiblee Ahamed",
+    "nameBangla": "শিবলী আহমেদ ",
+    "sscRoll": 146826,
+    "class10Roll": 1,
+    "section": "D",
+    "phone": "01764574430",
+    "email": "shibleeredoy@gmail.com",
+    "subject": "MBBS",
+    "university": "army medical bogura",
+    "bloodGroup": "0+",
+    "passion": "singing ,travelling",
+    "photo": "https://drive.google.com/uc?id=1q0fBRYboYXJAkqN24rHCunc__fqt-3hS"
   },
   {
     "Timestamp": 43837.54022285879,
@@ -2137,6 +2095,51 @@
     "bloodGroup": "O(+ve)",
     "photo": "https://drive.google.com/uc?id=1zMBpg5TOPYCV3rH-jGNq3krBUmAnFsjU"
   },
+  
+  {
+    "Timestamp": 43842.95663946759,
+    "Name": "Sourv Chandra Roy",
+    "nameBangla": "Sourv Chandra Roy",
+    "sscRoll": "",
+    "class10Roll": 7,
+    "section": "D",
+    "phone": "01614160407",
+    "email": "sourvchandra1999@gmail.com",
+    "subject": "EEE",
+    "university": "BUET",
+    "bloodGroup": "O+",
+    "passion": "Playing guitar",
+    "photo": "https://drive.google.com/uc?id=1YoctpTB1INSOHkt826bLHNW3ykWd-8yu"
+  },
+  {
+    "Timestamp": 43841.99102270833,
+    "Name": "Alamgir Kabir Emon",
+    "nameBangla": "আলমগীর কবির ইমন",
+    "sscRoll": 146835,
+    "class10Roll": 8,
+    "section": "D",
+    "phone": "01762983352",
+    "email": "alamgir.ak7@gmail.com",
+    "subject": "MME",
+    "university": "BUET",
+    "bloodGroup": "AB+",
+    "photo": "https://drive.google.com/uc?id=1PwTXTz7nRgBeWWrSSrdWinW-qwTMUwhg"
+  },
+  {
+    "Timestamp": 43841.99741319445,
+    "Name": "Sakibur Rahman",
+    "nameBangla": "সাকিবুর রহমান",
+    "sscRoll": 146829,
+    "class10Roll": 9,
+    "section": "D",
+    "phone": "01726715885",
+    "email": "rahmansakibur18@gmail.com",
+    "subject": "Medical science, drawing, sleeping",
+    "university": "Rajshahi medical college",
+    "bloodGroup": " A+",
+    "passion": "Medical science, drawing, sleeping",
+    "photo": "https://drive.google.com/uc?id=1uPSPk5rNDammjrjwTZHhRqZhW_5LPVsj"
+  }
   {
     "Timestamp": 43842.95810766204,
     "Name": "Wasib Shakkhor",
@@ -2497,20 +2500,6 @@
     "photo": "https://drive.google.com/uc?id=1RYXdiYct9z88TpB_NAoefnCGGfiu12N6"
   },
   {
-    "Timestamp": 43847.12410166667,
-    "Name": "Arman Haque",
-    "nameBangla": "আরমান হক",
-    "sscRoll": 146866,
-    "class10Roll": 37,
-    "section": "D",
-    "phone": "01614160437",
-    "email": "arman.haqueantu75@gmail.com",
-    "subject": "Tourism n hospitality management    ",
-    "university": "IUBAT",
-    "bloodGroup": "AB+",
-    "photo": "https://drive.google.com/uc?id=16kHl5BOnnZKdkgUBkFZRY3TSrDKAoycD"
-  },
-  {
     "Timestamp": 43841.47088055556,
     "Name": "Mahmudul Hasan",
     "nameBangla": "মাহমুদুল হাসান",
@@ -2584,6 +2573,20 @@
     "bloodGroup": "JANI NA",
     "passion": "ella lia vabi na",
     "photo": "https://drive.google.com/uc?id=1zaCo2Gf3rIS65zBgM7tbv0dp97-LEiBJ"
+  },
+  {
+    "Timestamp": 43841.981080405094,
+    "Name": "Fahmid Ahsan Akash",
+    "nameBangla": "ফাহমিদ আহসান আকাশ",
+    "sscRoll": 146864,
+    "class10Roll": 43,
+    "section": "D",
+    "phone": "01307652137",
+    "email": "fahmidahsan562@gmail.com",
+    "subject": "Public Administration",
+    "university": "BSMRSTU",
+    "bloodGroup": "A+",
+    "photo": "https://drive.google.com/uc?id=1FmzsyARKy4Q0V857Cq7Vjmr-uXbgrDgn"
   },
   {
     "Timestamp": 43841.724135717595,
@@ -2786,21 +2789,7 @@
     "bloodGroup": "B+",
     "photo": "https://drive.google.com/uc?id=1nQ26LtZ_sNmBeIVRPuC0QYB0GeeO3W63"
   },
-  {
-    "Timestamp": 43836.58655620371,
-    "Name": "MD. TAHMID SHAHRIYAR",
-    "nameBangla": "মো: তাহমিদ শাহরিয়ার",
-    "sscRoll": 146875,
-    "class10Roll": 61,
-    "section": "D",
-    "phone": 1718841619,
-    "email": "tahmid229@gmail.com",
-    "subject": "LLB",
-    "university": "Brac University",
-    "bloodGroup": "B(+ve)",
-    "passion": "Judge",
-    "photo": "https://drive.google.com/uc?id=1wBk4kHUuJV6tX0L1eu6b23kSZRZANqrO"
-  },
+  
   {
     "Timestamp": 43842.01516148148,
     "Name": "Amit Saha",
@@ -2815,6 +2804,21 @@
     "bloodGroup": "AB+",
     "passion": "Business",
     "photo": "https://drive.google.com/uc?id=1sVnTawtEj2xW0El2_UlN4N_YmBYP5A_v"
+  },
+  {
+    "Timestamp": 43836.58655620371,
+    "Name": "MD. TAHMID SHAHRIYAR",
+    "nameBangla": "মো: তাহমিদ শাহরিয়ার",
+    "sscRoll": 146875,
+    "class10Roll": 62,
+    "section": "D",
+    "phone": 1718841619,
+    "email": "tahmid229@gmail.com",
+    "subject": "LLB",
+    "university": "Brac University",
+    "bloodGroup": "B(+ve)",
+    "passion": "Judge",
+    "photo": "https://drive.google.com/uc?id=1wBk4kHUuJV6tX0L1eu6b23kSZRZANqrO"
   },
   {
     "Timestamp": 43837.29388423611,
@@ -2836,7 +2840,7 @@
     "Name": "AL-MUZADDED MOON",
     "nameBangla": "আল-মুজাদ্দেদ মুন",
     "sscRoll": 127837,
-    "class10Roll": 64,
+    "class10Roll": "left/cadet",
     "section": "D",
     "phone": "01615351803",
     "email": "almuzaddedmoon@gmail.com",
@@ -2845,77 +2849,6 @@
     "bloodGroup": "B+",
     "photo": "https://drive.google.com/uc?id=1GZcw6FBR17-RDdKVoKmN25c6g67P2Gtj"
   },
-  {
-    "Timestamp": 43841.981080405094,
-    "Name": "Fahmid Ahsan Akash",
-    "nameBangla": "ফাহমিদ আহসান আকাশ",
-    "sscRoll": 146864,
-    "class10Roll": 43,
-    "section": "D",
-    "phone": "01307652137",
-    "email": "fahmidahsan562@gmail.com",
-    "subject": "Public Administration",
-    "university": "BSMRSTU",
-    "bloodGroup": "A+",
-    "photo": "https://drive.google.com/uc?id=1FmzsyARKy4Q0V857Cq7Vjmr-uXbgrDgn"
-  },
-  {
-    "Timestamp": 43841.99289334491,
-    "Name": "Shiblee Ahamed",
-    "nameBangla": "শিবলী আহমেদ ",
-    "sscRoll": 146826,
-    "class10Roll": 1,
-    "section": "D",
-    "phone": "01764574430",
-    "email": "shibleeredoy@gmail.com",
-    "subject": "MBBS",
-    "university": "army medical bogura",
-    "bloodGroup": "0+",
-    "passion": "singing ,travelling",
-    "photo": "https://drive.google.com/uc?id=1q0fBRYboYXJAkqN24rHCunc__fqt-3hS"
-  },
-  {
-    "Timestamp": 43842.95663946759,
-    "Name": "Sourv Chandra Roy",
-    "nameBangla": "Sourv Chandra Roy",
-    "sscRoll": "",
-    "class10Roll": 7,
-    "section": "D",
-    "phone": "01614160407",
-    "email": "sourvchandra1999@gmail.com",
-    "subject": "EEE",
-    "university": "BUET",
-    "bloodGroup": "O+",
-    "passion": "Playing guitar",
-    "photo": "https://drive.google.com/uc?id=1YoctpTB1INSOHkt826bLHNW3ykWd-8yu"
-  },
-  {
-    "Timestamp": 43841.99102270833,
-    "Name": "Alamgir Kabir Emon",
-    "nameBangla": "আলমগীর কবির ইমন",
-    "sscRoll": 146835,
-    "class10Roll": 8,
-    "section": "D",
-    "phone": "01762983352",
-    "email": "alamgir.ak7@gmail.com",
-    "subject": "MME",
-    "university": "BUET",
-    "bloodGroup": "AB+",
-    "photo": "https://drive.google.com/uc?id=1PwTXTz7nRgBeWWrSSrdWinW-qwTMUwhg"
-  },
-  {
-    "Timestamp": 43841.99741319445,
-    "Name": "Sakibur Rahman",
-    "nameBangla": "সাকিবুর রহমান",
-    "sscRoll": 146829,
-    "class10Roll": 9,
-    "section": "D",
-    "phone": "01726715885",
-    "email": "rahmansakibur18@gmail.com",
-    "subject": "Medical science, drawing, sleeping",
-    "university": "Rajshahi medical college",
-    "bloodGroup": " A+",
-    "passion": "Medical science, drawing, sleeping",
-    "photo": "https://drive.google.com/uc?id=1uPSPk5rNDammjrjwTZHhRqZhW_5LPVsj"
-  }
+  
+  
 ]
