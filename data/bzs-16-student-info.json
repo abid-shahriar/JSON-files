@@ -674,13 +674,13 @@
     "sscRoll": 146722,
     "class10Roll": 6,
     "section": "B",
-    "phone": "01307316244",
-    "email": "Englishfaysal135@gmail.com",
+    "phone": "01308528283",
+    "email": "faysalhasan.ahcenglish@gmail.com",
     "subject": "English",
     "university": "National University (AHC)",
     "bloodGroup": "B+",
-    "passion": "Magistrate",
-    "photo": "https://drive.google.com/uc?id=1NL5YWAIdY5v3WuPXqrLx-WAx2nLp16qY"
+    "passion": "Want to be a professor / magistrate",
+    "photo": "https://drive.google.com/uc?id=1JJpkXd8tqYGp7Z-K4PpN0z23DckGUzFk"
   },
   {
     "Name": "Abid Al Mahmud",
@@ -1120,9 +1120,11 @@
     "class10Roll": 45,
     "section": "B",
     "phone": "01612201645",
-    "email": "sahapurna01@gmail.com",
-    "university": "Pabna Textile ",
+    "email": "boloramsaha01@gmail.com",
+    "subject": "cse",
+    "university": "Ahsanullah University of Science and Technology (AUST)",
     "bloodGroup": "O(+ve)",
+    "passion": "Software Developer",
     "photo": "https://drive.google.com/uc?id=1mhjxfkXUdRuyurM1bwVPT9yGbV9D8pm-"
   },
   {
@@ -1137,15 +1139,15 @@
     "photo": "https://drive.google.com/uc?id=1cGlny7aoDJx3WP0oUvmC2RTWXNrTSM7j"
   },
   {
-    "Name": "Fahim Morahed",
+    "Name": "Fahim Morshed",
     "nameBangla": "ফাহিম মোর্শেদ",
     "sscRoll": 146764,
     "class10Roll": 47,
     "section": "B",
     "phone": "01619201647",
     "email": "fahimmorshed24@gmail.com",
-    "subject": "Pore dimuni ",
-    "university": "Pore dimuni",
+    "subject": "Textile Engineering",
+    "university": "AUST",
     "bloodGroup": "B(+ve)",
     "photo": "https://drive.google.com/uc?id=10YYvc9CW1YBw4GhvpGLNdrh13ZjhjeKs"
   },
@@ -1638,6 +1640,7 @@
     "subject": "MBBS: Bachelor of Medicine, Bachelor of Surgery.",
     "university": "Colonel Malek Medical College,Manikganj",
     "bloodGroup": "A+",
+    "passion": "Doctor",
     "photo": "https://drive.google.com/uc?id=1WCbXHZz2eR2tDDzc1RL_nqx8uMSgkvik"
   },
   {
@@ -1819,6 +1822,19 @@
     "photo": "https://drive.google.com/uc?id=1QHEtfKvEFSy8yO8T-kUwSa1n71pkYuAr"
   },
   {
+    "Name": "MD. ABIR RAIHAN ",
+    "nameBangla": "মোঃ আবির রায়হান",
+    "sscRoll": 124306,
+    "class10Roll": 44,
+    "section": "C",
+    "phone": "1715716440",
+    "email": "abirraihan82@gmail.com",
+    "subject": "Computer Science Engineering ",
+    "university": "American International University Bangladesh ",
+    "bloodGroup": "A+",
+    "photo": "https://drive.google.com/uc?id=1JUdTTzCSY0IQHrnTYbPbElrauyKik5XM"
+  },
+  {
     "Name": "A.K.M. ABDULLAH BIN KADER",
     "nameBangla": "এ, কে, এম, আব্দুল্লাহ বিন কাদের",
     "sscRoll": 146815,
@@ -1846,15 +1862,17 @@
     "photo": "https://drive.google.com/uc?id=1HCRse3v8QQxDA1D7yqipqZPvwwVivv4r"
   },
   {
-    "Name": "Mohammod Rafi Sadik",
-    "nameBangla": "মুহাম্মদ রাফী সাদিক",
-    "class10Roll": 56,
+    "Name": "Md. Tauhidul Islam",
+    "nameBangla": "মোঃ তৌহিদুল ইসলাম",
+    "class10Roll": 53,
     "section": "C",
-    "phone": "01612016356",
-    "email": "rafisadik89@gmail.com",
-    "university": "BUFT ",
-    "bloodGroup": "B+",
-    "photo": "https://drive.google.com/uc?id=1ngC8nFeb014MTXyuapryfsESKm4EQ3wF"
+    "phone": "01793869255",
+    "email": "tauhidul.islam.tain18@gmail.com",
+    "subject": "BSC in CSE  ",
+    "university": "Daffodil International University (DIU) ",
+    "bloodGroup": "A+ve",
+    "passion": "Founder of a software company ",
+    "photo": "https://drive.google.com/uc?id=10j2lg3OfKkhsWO1KWKwe7xfb2kY_2JAD"
   },
   {
     "Name": "Mohammod Rafi Sadik ",
@@ -2095,18 +2113,18 @@
     "photo": "https://drive.google.com/uc?id=1b9-APIWF2lkFqbeNSJ1C-KLRI0KfS6C2"
   },
   {
-    "Name": "Md.Al-Naim (Leejohn)",
-    "nameBangla": "মোঃ আল-নাঈম (লিজন)",
+    "Name": "Md. Al-Naim",
+    "nameBangla": "Md. Al-Naim",
     "sscRoll": 146851,
     "class10Roll": 16,
     "section": "D",
-    "phone": "01773580000;01619160416",
+    "phone": "01773580000 , 01619160416",
     "email": "leejohn051725@gmail.com",
-    "subject": "Chemistry",
-    "university": "Govt. Azizul Hauge College, Bogura",
+    "subject": "Statistics ",
+    "university": "Hajee Mohammad Danesh Science & Technology University",
     "bloodGroup": "AB+",
     "passion": "Gardening",
-    "photo": "https://drive.google.com/uc?id=1HBjDtB16QX_U6S1ZeKVh_bxUK2m0nEoi"
+    "photo": "https://drive.google.com/uc?id=1UuZ9SuMbd_BjyWajr7wd2gC-2YAupwEl"
   },
   {
     "Name": "Swaksher Das",
